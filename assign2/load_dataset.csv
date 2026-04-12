@@ -1,0 +1,16 @@
+Age,Income,Own_Home,Credit_History,Approve_Loan
+Young,High,Yes,Good,Yes
+Young,High,No,Good,No
+Middle,High,Yes,Good,Yes
+Senior,Medium,No,Good,Yes
+Senior,Low,Yes,Fair,Yes
+Senior,Low,No,Fair,No
+Middle,Low,Yes,Fair,Yes
+Young,Medium,No,Fair,No
+Young,Low,Yes,Good,Yes
+Senior,Medium,Yes,Fair,Yes
+Young,Medium,Yes,Poor,No
+Middle,Medium,No,Good,Yes
+Middle,High,Yes,Poor,Yes
+Senior,Medium,No,Poor,No
+Young,Low,No,Poor,No
